@@ -56,14 +56,39 @@ FOSS has led to the creation of many of the internet's biggest tolls (Linux, Apa
 * alternative to github: GitLab is a great alternative with similar features but more self-hosting options (meaning companies can run their own private GitHub-like service).
 
 **GitHub | version control software or social media?**
-(Find several sources about the uses of GitHub and understand those use cases.)
+
+Github serves as both a VCS and Social Network for developers, seamlessly integrating functionalities from both domains.
+
+At it's core, HitHub is built upon Git, a distributed VCS that enables developers to track changes in their code, collaborate efficiently,
+and manage project histories.
+
+Beyond version control, GitHub incorporates social networking features that foster a vibrant developer community:
+* Profiles and Followers
+* Community Building
+* Code Discovery and Exploration
 
 
---====
+## Markdown
 
-i. Have a README.md file - This file is the welcome page to your repository and serves to orient new arrivals. Find three sources about how to use the README effectively on a GitHub repository. Find three sources about how to use the markdown format effectively. Take what you like and craft your README. You can always edit it later so focus more on form than content.
+The following sources explain how to effectively use the markdown format:
 
-ii. Have a LICENSE - Read about common licenses used on GitHub. Read the UVA School of Data Science reccomendation on Open Science. Explore why licensing your work is important and explain that significant to another member of the cohort.
+1. https://www.markdownguide.org/basic-syntax/
 
-iii. Use the browser based editor to modify your files
-Share your repository
+2. https://commonmark.org/help/
+
+3. https://en.wikipedia.org/wiki/Markdown
+
+
+## Common Licenses used on GitHub
+
+> https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+
+Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.
+
+Licenses define how others can use, modify, and distribute your code.
+Without a license your code is not legally open-source, and people might be hesitant to use or contribute to your project.
+
+* MIT License (Permissive): Anyone can use, modify, and distribute the code, as long as they credit the original author.
+* Apache License 2.0: Similar to MIT but includes an explicit patent grant.
+* GNU General Public License (GPL): Requires that any modified version of the code is also open-source under the same license.
+* Creative Commons (CC) Licenses: Often used for non-software content, such as documentation.
